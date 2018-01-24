@@ -2,6 +2,7 @@
 
 
 Objetivos:
+
 -Desarrollar una habilidad informática que me permita interactuar con facilidad, rapidez y seguridad.
 
 -Aprender a utilizar las herramientas básicas para optimizar el tiempo en la resolución de probelmas de ingeniería.
